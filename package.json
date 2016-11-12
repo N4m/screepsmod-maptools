@@ -1,0 +1,24 @@
+{
+  "name": "screepsmod-maptools",
+  "version": "1.0.0",
+  "description": "Screeps Map Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N4m/screepsmod-maptools.git"
+  },
+  "keywords": [
+    "screeps",
+    "map",
+    "tools"
+  ],
+  "author": "N4m",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N4m/screepsmod-maptools/issues"
+  },
+  "homepage": "https://github.com/N4m/screepsmod-maptools#readme"
+}
